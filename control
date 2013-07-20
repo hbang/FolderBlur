@@ -1,6 +1,6 @@
 Package: ws.hbang.folderblur
 Name: FolderBlur
-Depends: mobilesubstrate, jp.ashikase.folderenhancer
+Depends: mobilesubstrate
 Version: 1.0~beta2
 Architecture: iphoneos-arm
 Description: Blur wallpaper when opening folders
